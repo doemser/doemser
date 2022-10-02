@@ -2,7 +2,7 @@
 
 &nbsp;\
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominik-hautau-152877223/)](https://www.linkedin.com/in/dominik-hautau-152877223/)
-[![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)] (https://codesandbox.io/u/doemser)
+[![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/doemser)
 
 <!--
 **doemser/doemser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
