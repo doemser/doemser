@@ -1,4 +1,6 @@
 ![domhau_nf_prot](https://user-images.githubusercontent.com/93415777/154830705-af4ed46b-fef3-424f-9bdb-9f1aaf47b086.gif)
+
+&nbsp;\
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominik-hautau-152877223/)](https://www.linkedin.com/in/dominik-hautau-152877223/)
 
 <!--
