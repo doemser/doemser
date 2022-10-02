@@ -6,7 +6,7 @@
 &nbsp;\
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/artist/6YHFGjzUAgbgv1XCZLxZtP)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/doemser)
-[![YouTube](https://img.shields.io/badge/YouTube-%00000000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC6RtH7u7pQofFwiP43SDqkw)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC6RtH7u7pQofFwiP43SDqkw)
 
 &nbsp;
 
