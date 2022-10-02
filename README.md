@@ -1,11 +1,11 @@
 ![domhau_nf_prot](https://user-images.githubusercontent.com/93415777/154830705-af4ed46b-fef3-424f-9bdb-9f1aaf47b086.gif)
 
-&nbsp;\
+&nbsp;
 
 [![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/doemser)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/doemser)
 
-&nbsp;\
+&nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-hautau-152877223/)
 
