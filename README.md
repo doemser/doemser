@@ -1,7 +1,7 @@
 ### CHECK OUT:
 
-<a href="https://github.com/doemser/dead-simple-react" target="_blank">![dead-simple-react](https://github.com/doemser/dead-simple-react/blob/main/assets/png/dead-simple-react-logo.png?raw=true)</a>
-<a href="https://github.com/doemser/use-wasd" target="_blank">![use-wasd](https://github.com/doemser/dead-simple-react/blob/main/assets/png/use-wasd.png?raw=true)</a>
+<a href="https://github.com/doemser/dead-simple-react" target="_blank">![dead-simple-react](./assets/1x/dead-simple-react.png)</a>
+<a href="https://github.com/doemser/use-wasd" target="_blank">![use-wasd](./assets/1x/use-wasd_1.png)</a>
 
 ---
 
@@ -12,7 +12,3 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/6YHFGjzUAgbgv1XCZLxZtP)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/doemser)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC6RtH7u7pQofFwiP43SDqkw)
-
-
-
-
