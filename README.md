@@ -1,10 +1,10 @@
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-&nbsp;\
-![domhau_nf_prot](https://user-images.githubusercontent.com/93415777/154830705-af4ed46b-fef3-424f-9bdb-9f1aaf47b086.gif)
-&nbsp;\
+### CHECK OUT:
+
+<a href="https://github.com/doemser/dead-simple-react" target="_blank">![dead-simple-react](https://github.com/doemser/dead-simple-react/blob/main/assets/png/dead-simple-react-logo.png?raw=true)</a>
+<a href="https://github.com/doemser/use-wasd" target="_blank">![use-wasd](https://github.com/doemser/dead-simple-react/blob/main/assets/png/use-wasd.png?raw=true)</a>
+
+---
+
 [![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/doemser)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/doemser)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-hautau-152877223/)
