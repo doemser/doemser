@@ -1,7 +1,7 @@
 ### CHECK OUT:
 
-<a href="https://github.com/doemser/dead-simple-react" target="_blank">![dead-simple-react](./assets/1x/dead-simple-react.png)</a>
-<a href="https://github.com/doemser/use-wasd" target="_blank">![use-wasd](./assets/1x/use-wasd_1.png)</a>
+<a href="https://github.com/doemser/dead-simple-react" target="_blank">![dead-simple-react](./assets/1x/dead-simple-react-banner.png)</a>
+<a href="https://github.com/doemser/use-wasd" target="_blank">![use-wasd](./assets/1x/use-wasd-banner.png)</a>
 
 ---
 
