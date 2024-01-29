@@ -1,6 +1,4 @@
-[<img width="314" alt="Screenshot 2024-01-29 at 18 47 47" src="https://github.com/doemser/doemser/assets/93415777/3dbbbf8b-d905-4583-a4ac-f1677cff065c">](https://doemser.de/games/durch)
-
-
+[<img width="296" alt="Screenshot 2024-01-29 at 18 55 45" src="https://github.com/doemser/doemser/assets/93415777/442847bc-1c62-4065-bccf-cd061e6313a9">](https://doemser.de/games/durch)
 
 
 [![doemser.de](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&label=doemser.de&labelColor=000)](https://doemser.de)
